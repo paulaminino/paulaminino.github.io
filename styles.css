@@ -1,0 +1,56 @@
+body {
+    background-image: url("imagenesejemplo/imagenfondo2.webp");
+    background-repeat:no-repeat;
+    background-size: cover;
+    text-align: center;
+    margin: 50px 40px;   
+}
+
+h1 {
+    color: rgb(15, 3, 3);
+}
+
+h2{
+    color: rgb(22, 26, 24);
+}
+
+h3{
+    color: rgb(16, 20, 20);
+}
+
+div#primerid p {
+    color: rgb(19, 19, 22);
+}
+
+img {
+    float: right;
+    width: 700px ;
+}
+
+em {
+    background-color: rgb(49, 123, 184);
+}
+
+em.cinco {
+    color: rgb(248, 247, 245);
+}
+
+em.dos {
+    color: rgb(241, 239, 243);
+}
+
+em.tres{
+    color: rgb(254, 253, 255);   
+}
+
+div.cuatro p {
+    color: rgb(19, 24, 19);
+}
+
+#segundoid {
+    color: rgb(63, 40, 56);
+   
+}
+
+
+
